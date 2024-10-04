@@ -1,0 +1,5 @@
+pip install pandastable
+pip install schedule
+pip install statemachine
+pip install python-statemachine[diagrams]
+pip install opencv-python
